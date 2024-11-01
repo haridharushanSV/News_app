@@ -82,8 +82,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ## Acknowledgments
 
 - Special thanks to [News API](https://newsapi.org/) for providing the news data.
-- Thanks to the Flutter community for their continuous support and resources.
 
 
 
-Happy coding! 📰🚀
+## Happy coding! 📰🚀
