@@ -84,8 +84,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 - Special thanks to [News API](https://newsapi.org/) for providing the news data.
 - Thanks to the Flutter community for their continuous support and resources.
 
-## Contact
 
-For any questions or feedback, feel free to reach out at [your_email@example.com].
 
 Happy coding! 📰🚀
