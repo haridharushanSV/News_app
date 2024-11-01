@@ -79,7 +79,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 5. Open a pull request.
 
 
-## Acknowledgments
+### Acknowledgments
 
 - Special thanks to [News API](https://newsapi.org/) for providing the news data.
 
