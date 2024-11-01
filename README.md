@@ -27,13 +27,13 @@ Welcome to the Flutter News App! This app provides a seamless way to read and st
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flutter_news_app.git
+   git clone git@github.com:haridharushanSV/News_app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd flutter_news_app
+   cd News_app
    ```
 
 3. Install the dependencies:
