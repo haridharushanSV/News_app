@@ -47,6 +47,9 @@ Welcome to the Flutter News App! This app provides a seamless way to read and st
    ```bash
    flutter run
    ```
+        ```bash
+   flutter run -d chrome --web-renderer html
+   ```
 
 ### Configuration
 
